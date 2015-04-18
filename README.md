@@ -8,6 +8,22 @@ Workshop Syllabus:
 4. Using what we learned to make a talking bot!
 
 
-installing homebrew:
+Installing homebrew (package manager for Mac):
 
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+Installing pip (package manager for Python):
+sudo easy_install pip
+
+Dependencies required for the Einstein Bot:
+requests library: "sudo pip install requests" 
+pyopenssl library: "sudo pip install pyopenssl"
+urllib3 library: "sudo pip install urllib3"
+certifi library: "sudo pip install certifi"
+ndg-httpsclieant and pyasn1 libraries: "sudo pip install ndg-httpsclient pyasn1"
+
+To run the program: "python LonelyNoMore.py" 
+
+Bonus points for checking out the BabyBoy branch and making it smarter!
+
+**Note: You may run the file "ListLocalLibraries.py" to list all the modules you have installed (locally) for Python!
