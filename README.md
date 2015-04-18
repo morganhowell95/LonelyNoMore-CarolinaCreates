@@ -16,11 +16,16 @@ Installing pip (package manager for Python):
 sudo easy_install pip
 
 Dependencies required for the Einstein Bot:
-requests library: "sudo pip install requests" 
-pyopenssl library: "sudo pip install pyopenssl"
-urllib3 library: "sudo pip install urllib3"
-certifi library: "sudo pip install certifi"
-ndg-httpsclieant and pyasn1 libraries: "sudo pip install ndg-httpsclient pyasn1"
+
+-requests library: "sudo pip install requests" 
+
+-pyopenssl library: "sudo pip install pyopenssl"
+
+-urllib3 library: "sudo pip install urllib3"
+
+-certifi library: "sudo pip install certifi"
+
+-ndg-httpsclieant and pyasn1 libraries: "sudo pip install ndg-httpsclient pyasn1"
 
 To run the program: "python LonelyNoMore.py" 
 
