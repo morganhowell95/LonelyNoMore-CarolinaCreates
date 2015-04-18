@@ -15,7 +15,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 Installing pip (package manager for Python):
 sudo easy_install pip
 
-Dependencies required for the Einstein Bot:
+<h2>Dependencies required for the Einstein Bot:</h2>
 
 -requests library: "sudo pip install requests" 
 
