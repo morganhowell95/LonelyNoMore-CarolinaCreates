@@ -28,6 +28,7 @@ sudo easy_install pip
 -ndg-httpsclieant and pyasn1 libraries: "sudo pip install ndg-httpsclient pyasn1"
 
 <h5>To run the program: "python LonelyNoMore.py"</h5> 
+<h6>Type "go away" or "stop" to terminate the program</h6>
 
 Bonus points for checking out the BabyBot branch and making it smarter!
 
