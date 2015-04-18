@@ -29,6 +29,6 @@ sudo easy_install pip
 
 <h5>To run the program: "python LonelyNoMore.py"</h5> 
 
-Bonus points for checking out the BabyBoy branch and making it smarter!
+Bonus points for checking out the BabyBot branch and making it smarter!
 
 **Note: You may run the file "ListLocalLibraries.py" to list all the modules you have installed (locally) for Python!
